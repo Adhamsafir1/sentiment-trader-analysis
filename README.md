@@ -146,8 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Adham Safir
 - **GitHub**: [Adhamsafir1](https://github.com/Adhamsafir1)
-- **Email**: [your-email@example.com] (replace with actual)
+- **Email**: adhamsafir1@gmail.com
 
 ---
 
-*Built with ❤️ for data-driven trading insights.*
