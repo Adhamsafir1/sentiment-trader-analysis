@@ -1,0 +1,19 @@
+===== TRADER PERFORMANCE VS SENTIMENT ANALYSIS =====
+
+1. Win Rate by Sentiment (%)
+   Extreme Fear: 35.25%
+   Fear: 43.73%
+   Neutral: 41.66%
+   Greed: 37.23%
+   Extreme Greed: 45.48%
+
+2. Average PnL by Sentiment ($)
+   Extreme Fear: 33.14
+   Fear: 63.57
+   Neutral: 46.07
+   Greed: 34.84
+   Extreme Greed: 67.76
+
+3. Pearson correlation (sentiment score vs PnL): r=0.002, p=0.4737
+
+5. ANOVA (PnL by sentiment trend): F=15.568, p=0.0000
